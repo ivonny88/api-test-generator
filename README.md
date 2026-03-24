@@ -1,21 +1,21 @@
-# ðŸ”Œ API Test Generator
+# ?? API Test Generator
 
-Genera tests de API automÃ¡ticamente usando IA (LLaMA 3.3 via Groq).
+Genera tests de API automáticamente usando IA (LLaMA 3.3 via Groq).
 
-## Â¿QuÃ© genera?
+## ?? Demo en vivo
+?? https://api-test-generator-kd2koznypkhtaafx6s3gtn.streamlit.app
+
+## ¿Qué genera?
 - Colecciones Postman v2.1 listas para importar
 - Archivos pytest con requests listos para ejecutar
 
 ## Input aceptado
-- URL de endpoint + mÃ©todo HTTP
-- EspecificaciÃ³n OpenAPI/Swagger (JSON o YAML)
-- DescripciÃ³n en texto libre
+- URL de endpoint + método HTTP
+- Especificación OpenAPI/Swagger (JSON o YAML)
+- Descripción en texto libre
 
 ## Stack
-Python Â· Streamlit Â· Groq (LLaMA 3.3) Â· pytest Â· Postman
-
-## Demo
-ðŸ”— [PrÃ³ximamente en Streamlit Cloud]
+Python · Streamlit · Groq (LLaMA 3.3) · pytest · Postman
 
 ## Creado por
-[FÃ¡tima QA](https://fatimaqa.com) â€” QA Engineer & Test Automation
+[Fátima QA](https://fatimaqa.com) — QA Engineer & Test Automation
